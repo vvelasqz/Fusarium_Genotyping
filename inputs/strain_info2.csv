@@ -1,0 +1,107 @@
+strain,Isolation_tissue,Gender,PCR_OX31_OX32,PCR_Fusofor_Fusorev,rDNA_28S   ,TEF1_a,spp_molec,haplotype_28S_rDNA   ,haplotype_TEF1_a
+55347,Toenail,F,N,Y,,F. solani,F. solani,,H5
+55349,Toenail,F,Y,N,F. oxysporum,,F. oxysporum,,
+55399,Toenail,F,N,Y,,,F. solani,,
+55444,Toenail,M,Y,N,,,F. oxysporum,,
+55466,Toenail,M,Y,N,,,F. oxysporum,,
+55496,Toenail,F,N,N,Fusarium spp,,Fusarium spp,,
+55498,Toenail,F,Y,N,,,F. oxysporum,,
+55529,Toenail,M,N,Y,,,F. solani,,
+55583,Unknown,M,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,,H3_oxy
+55585,Toenail,F,Y,N,,,F. oxysporum,,
+55588,Skin,F,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+55639,Toenail,F,Y,N,,,F. oxysporum,,
+55760,Toenail,F,Y,N,,,F. oxysporum,,
+55762,Toenail,F,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+55787,Toenail,F,N,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H1_oxy
+55827,Toenail,F,Y,N,,,F. oxysporum,,
+55861,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H3_oxy
+55882,Toenail,F,Y,N,,,F. oxysporum,,
+55945,Toenail,F,N,Y,F. oxysporum,F. oxysporum,F. solani,H3_oxy,H3_oxy
+55979,Cornea,M,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+56016,Toenail,F,Y,N,,,F. oxysporum,,
+56054,Skin,M,N,Y,,F. solani,F. solani,,H7
+56094,Toenail,F,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+56104,Toenail,F,Y,N,,,F. oxysporum,,
+56212,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H4_oxy,H3_oxy
+56240,Toenail,F,N,Y,F. solani,F. solani,F. solani,H4,H3
+56242,Toenail,M,Y,N,,,F. oxysporum,,
+56301,Toenail,F,N,Y,F. solani,,F. solani,,
+56320,Toenail,F,Y,N,,,F. oxysporum,,
+56321,Fingernail,F,N,Y,,,F. solani,,
+56323,Toenail,F,Y,N,,F. oxysporum,F. oxysporum,,H6_oxy
+56337,Toenail,F,N,Y,,,F. solani,,
+56340,Toenail,F,N,Y,,F. solani,F. solani,,H10
+56363,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H3_oxy
+56375,Toenail,F,Y,N,,,F. oxysporum,,
+56604,Toenail,F,N,Y,,,F. solani,,
+56665,Skin,F,N,N,Fusarium spp,Fusarium spp,Fusarium spp,,H1_spp
+56762,Toenail,F,Y,N,,,F. oxysporum,,
+56780,Toenail,F,N,N,F. solani,F. solani,F. solani,H1,H6
+56797,Toenail,F,Y,N,,,F. oxysporum,,
+56848,Toenail,F,Y,N,,,F. oxysporum,,
+56868,Toenail,F,N,Y,,,F. solani,,
+56891,Toenail,M,N,Y,,,F. solani,,
+56894,Toenail,M,Y,N,,F. solani,F. oxysporum,,H3
+56988,Cornea,M,N,Y,F. solani,F. solani,F. solani,H4,H2
+57034,Fingernail,F,Y,N,,,F. oxysporum,,
+57076,Toenail,F,Y,N,,,F. oxysporum,,
+57081,Toenail,F,Y,N,,,F. oxysporum,,
+57221,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H3_oxy
+57228,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H5_oxy
+57239,Toenail,M,Y,N,,,F. oxysporum,,
+57250,Toenail,F,N,Y,,,F. solani,,
+57335,Toenail,F,N,Y,,,F. solani,,
+57502,Toenail,F,N,Y,,,F. solani,,
+57538,Toenail,F,Y,N,,,F. oxysporum,,
+57560,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H2_oxy
+57721,Toenail,F,N,Y,F. solani,F. solani,F. solani,,H3
+57855,Toenail,F,N,Y,,,F. solani,,
+57885,Toenail,M,N,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H1_oxy
+57949,Toenail,F,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+57952,Toenail,F,N,N,,,,,
+58023,Toenail,F,N,Y,,F. solani,F. solani,,H8
+58025,Toenail,M,Y,N,F. oxysporum,F. solani,F. oxysporum,H2,H1
+58474,Paranasal sinuses,M,N,N,F. solani,,F. solani,,
+58756,Toenail,F,N,N,F. solani,,F. solani,,
+62079,Cornea,F,N,N,F. dimerum,,F. dimerum,,
+62698,Abdomen,M,N,N,F. oxysporum,F. oxysporum,F. solani,H2_oxy,H3_oxy
+62802,Toenail,F,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+63051,Skin,M,N,N,F. solani,,F. solani,,
+63145,Toenail,F,N,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H1_oxy
+63200,Toenail,F,N,N,F. solani,F. solani,F. solani,H3,H4
+63230,Toenail,F,N,N,F. solani,,F. solani,,
+63316,Toenail,F,N,N,,F. oxysporum,,,H3_oxy
+63353,Toenail,F,N,N,,,,,
+63392,Toenail,F,N,N,,,,,
+63414,Toenail,M,N,N,F. oxysporum,F. oxysporum,F. oxysporum,H1_oxy,H4_oxy
+63447,Toenail,F,N,N,F. solani,F. solani,F. solani,H3,H5
+63507,Toenail,F,N,N,Fusarium spp,,Fusarium spp,,
+63550,Toenail,F,Y,N,,,F. oxysporum,,
+63613,Fingernail,F,Y,N,,,F. oxysporum,,
+63635,Toenail,F,N,N,,F. solani,,,H9
+63648,Toenail,F,Y,N,,,F. oxysporum,,
+63649,Toenail,F,Y,N,F. oxysporum,F. oxysporum,F. oxysporum,H5_oxy,H3_oxy
+63666,Fingernail,F,N,Y,,F. oxysporum,F. solani,,H1_oxy
+63746,Toenail,M,Y,N,,,F. oxysporum,,
+63749,Fingernail,M,Y,N,,,F. oxysporum,,
+63768,Toenail,F,Y,N,,F. oxysporum,F. oxysporum,,H3_oxy
+63783,Toenail,F,N,Y,,,F. solani,,
+63786,Toenail,F,Y,N,,,F. oxysporum,,
+63857,Skin,F,Y,N,,,F. oxysporum,,
+63868,Toenail,F,Y,N,,,F. oxysporum,,
+63880,Toenail,F,Y,N,,,F. oxysporum,,
+63901,Toenail,F,Y,N,,,F. oxysporum,,
+63917,Toenail,F,Y,N,,F. solani,F. oxysporum,,H5
+63946,Toenail,F,N,Y,,,F. solani,,
+63962,Toenail,M,Y,N,,,F. oxysporum,,
+64051,Skin,M,N,Y,,,F. solani,,
+64765,Toenail,F,N,Y,,F. solani,F. solani,,H3
+64927,Toenail,F,N,Y,,,F. solani,,
+64938,Toenail,M,N,Y,,,F. solani,,
+65068,Toenail,F,N,Y,,F. solani,F. solani,,H3
+31791,,,N,Y,F. solani,,,,
+32892,,,Y,N,F. oxysporum,,,,
+32989,,,N,N,Fusarium spp,,,,
+Control 1,,,Y,N,,,,,
+Control 2,,,N,Y,,,,,
