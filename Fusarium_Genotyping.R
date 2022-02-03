@@ -133,6 +133,7 @@ HG_gender<- HG_test(trts_name="Gender", cluster_name="cluster_LR_M13", cluster_t
 HG_TEF1_a_GACA4<- HG_test(trts_name="TEF1_a", cluster_name="cluster_GACA4", cluster_table=genotypes2)
 HG_28S_GACA4<- HG_test(trts_name="rDNA_28S", cluster_name="cluster_GACA4", cluster_table=genotypes2)
 HG_tissue_GACA4<- HG_test(trts_name="Isolation_tissue", cluster_name="cluster_GACA4", cluster_table=genotypes2)
+
 write.csv(HG_TEF1_a_GACA4, paste0(path, "/HG_tests/HG_TEF1_a_GACA4.csv"))
 write.csv(HG_28S_GACA4, paste0(path, "/HG_tests/HG_28S_GACA4.csv"))
 
